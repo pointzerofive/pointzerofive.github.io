@@ -8,9 +8,9 @@ We're a group of six neuroscientists in Stockholm.  We like data science, and th
 
 We are:
 
-Björn Schiffler
-Granville Matheson
-Lieke de Boer
-Nina Becker
-Pontus Plavén-Sigray
-William Hedley Thompson
+* Björn Schiffler
+* Granville Matheson
+* Lieke de Boer
+* Nina Becker
+* Pontus Plavén-Sigray
+* William Hedley Thompson

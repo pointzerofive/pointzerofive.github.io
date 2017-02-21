@@ -23,8 +23,8 @@ description: A Data Science Collective
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutus"
   Blog: "index"
+  About Us: "aboutus"
 # (below is an example of doing hover down menus)
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

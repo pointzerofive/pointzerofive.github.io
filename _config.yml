@@ -92,7 +92,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "point-zero-five"
+disqus: "https-pointzerofive-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""

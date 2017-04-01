@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://mathesong.github.io"
+url: "http://pointzerofive.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,17 +14,17 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Data Science Portfolio
+title: Point Zero Five (One)
 
 # Short description of your site
-description: Bits and Bobs
+description: A Data Science Collective
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Blog: "index"
-  About Us: "aboutme"
+  About Us: "aboutus"
 # (below is an example of doing hover down menus)
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/me_pic.png"
+avatar: "/img/p051.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -45,16 +45,16 @@ avatar: "/img/me_pic.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Granville Matheson
-  email: "mathesong@gmail.com"
+  name: Granville Matheson, Lieke de Boer, William Hedley Thompson, Nina Becker, Pontus Plavén-Sigray & Björn Schiffler
+  email: "pointzerofournine@gmail.com"
   facebook: yourname  # eg. daattali
-  github: mathesong    # eg. daattali
-  twitter: granvillejmath   # eg. daattali
+  github: yourname    # eg. daattali
+  twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
-  stackoverflow: "6001464/granville-matheson"  # eg. "3943160/daattali"
+  stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
@@ -66,13 +66,13 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
   linkedin: false
   xing: false
-  stackoverflow: true
+  stackoverflow: false
   snapchat: false
   instagram: false
   youtube: false
@@ -92,7 +92,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: 
+disqus: "https-pointzerofive-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""

@@ -3,7 +3,6 @@ layout: post
 title: Starting a blog like it is 2007. 
 image: /img/hello_world.jpeg
 tags: [blog, meta, pointzerofive]
-comments: true
 ---
 
 
